@@ -1,0 +1,6 @@
+{
+  "name": "WasteLoop - Real-Time Waste Management Platform",
+  "description": "Real-time waste reporting, GPS tracking, AI validation, collector dispatch, facility sorting & recovery analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
